@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Pandoras Box Announcement`,
+    title: `Pandoras Box Updates`,
     description: `Latest announcements and updates from the Pandora's Box team`,
     author: `The Pandora's Box Team`,
-    authorTagline: 'Latest Announcements',
+    authorTagline: 'Latest Updates',
     social: {
     },
   },
