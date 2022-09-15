@@ -1,12 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Blog Starter`,
-    description: `A Blog starter`,
-    author: `Boy with Silver Wings`,
-    authorTagline: 'Engineer. Driven by Passion',
-    social: {
-      twitter: `agneymenon`,
-    },
+    title: `Pandoras Box Announcement`,
+    description: `Latest announcements and updates from the Pandora's Box team`,
+    author: `The Pandora's Box Team`,
+    authorTagline: 'Latest Announcements',
   },
   plugins: [
     `gatsby-plugin-styled-components`,
