@@ -4,6 +4,9 @@ module.exports = {
     description: `Latest announcements and updates from the Pandora's Box team`,
     author: `The Pandora's Box Team`,
     authorTagline: 'Latest Announcements',
+    social: {
+      twitter: `agneymenon`,
+    },
   },
   plugins: [
     `gatsby-plugin-styled-components`,
