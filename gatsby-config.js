@@ -5,7 +5,7 @@ module.exports = {
     author: `The Pandora's Box Team`,
     authorTagline: 'Latest Announcements',
     social: {
-      twitter: `agneymenon`,
+      twitter: `biswasrahul16`,
     },
   },
   plugins: [
